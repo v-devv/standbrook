@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/standbrook/static/css/main.f855e6bc.css",
-    "main.js": "/standbrook/static/js/main.ca703cc3.js",
-    "static/js/453.f458b9cf.chunk.js": "/standbrook/static/js/453.f458b9cf.chunk.js",
-    "static/media/logo.svg": "/standbrook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/standbrook/static/js/main.9497b905.js",
     "index.html": "/standbrook/index.html",
-    "main.f855e6bc.css.map": "/standbrook/static/css/main.f855e6bc.css.map",
-    "main.ca703cc3.js.map": "/standbrook/static/js/main.ca703cc3.js.map",
-    "453.f458b9cf.chunk.js.map": "/standbrook/static/js/453.f458b9cf.chunk.js.map"
+    "main.9497b905.js.map": "/standbrook/static/js/main.9497b905.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ca703cc3.js"
+    "static/js/main.9497b905.js"
   ]
 }
